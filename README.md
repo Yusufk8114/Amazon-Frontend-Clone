@@ -4,12 +4,6 @@ A static front end page which mirrors that of the Amazon homepage and was made a
 
 > **Note:** This project is for learning purposes only. It is not affiliated with or endorsed by Amazon. All trademarks and logos belong to their respective owners.
 
-## Screenshot
-
-![alt text](<Screenshot 2026-11-15 233444.png>)
-![alt text](<Screenshot 2026-11-15 233521.png>)
-
-
 ## Features
 
 - **Navigation bar** that contains logo, delivery location, search bar (category drop down menu, search box, search button), language selector (Indian flag), account and lists, return and orders, and cart - **Hover effect** on items in navigation bar (white border) and search bar (orange border) - **Secondary panel** that has "All" menu button, category links and deals highlight - **Hero section** that contains banner image and a message to change to amazon.in - **Shop section** that has 8 category cards (Clothes, Health & Personal Care, Furniture, Electronics, Beauty Picks, Pet Care, Toys, Fashion Trends) organized using Flexbox - **Footer** that has "Back to Top" bar, 4 columns of links, language and country button, legal links and copyright information
