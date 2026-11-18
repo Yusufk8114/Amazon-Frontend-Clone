@@ -42,10 +42,6 @@ A connection to the internet is necessary for loading the Font Awesome icons.
 
 - Make the design responsive to tablets and mobiles (media queries) - Create an active search bar and drop-down for categories with JavaScript - Make a sign-in page and cart feature - Create a product listing page with product cards - Create a drop-down for the 'All' tab
 
-## Author
-
-**Your Name**
-- GitHub: https://github.com/Yusufk8114
 
 ## License
 
